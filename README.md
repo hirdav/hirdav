@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hirak
 - 👀 I’m interested in devleoping interesting ideas to a project
-- 🌱 <Tech Stack>
+- 🌱 Tech Stack
       -Python
       -Java
       -C++
