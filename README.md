@@ -41,9 +41,3 @@ Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?sty
 ---
 """
 
-# Writing the content to a markdown file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path  # returning the path for user to download
