@@ -21,8 +21,6 @@ Technologies and tools I frequently work with:
 
 - **Version Control**: ![GIT](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white)
 
-- **APIs**: Upstox API, Kite Connect API
-
 - **Financial Tools**: TradingView, Chartink, Sensibull
 
 ---
