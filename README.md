@@ -1,23 +1,49 @@
+
 # 👋 Hi, I'm Hirak Jyoti Kalita
 
-Welcome to my GitHub profile! I’m passionate about merging technology with finance. I love exploring new ideas and transforming them into impactful projects. Currently, I’m focusing on applying data science to deepen my understanding of financial markets.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+Welcome to my GitHub profile! I’m passionate about merging **technology with finance**. I love exploring new ideas and transforming them into impactful projects. Currently, I’m focusing on applying **data science** to deepen my understanding of financial markets.
+
+---
 
 ## 🌱 Tech Stack
 
 Technologies and tools I frequently work with:
 
-- **Languages**: Python, Java, C++, C, JavaScript
-- **Web Development**: HTML, CSS
-- **Version Control**: GIT
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  
+- **Web Development**: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+- **Version Control**: ![GIT](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white)
+
 - **APIs**: Upstox API, Kite Connect API
+
 - **Financial Tools**: TradingView, Chartink, Sensibull
 
+---
 
 ## 👀 Interests
 
-- Creating innovative solutions for financial markets.
-- Integrating finance and technology through data analysis and automation.
+- 💡 Creating **innovative solutions** for financial markets.
+- 🔗 Integrating **finance and technology** through **data analysis** and **automation**.
+
+---
 
 ## 📫 Get in Touch
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/hirak-jyoti-k-015a53166/) or reach out via email: hirak.wealth@gmail.com.
+Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirak-jyoti-k-015a53166/) or reach out via email: **hirak.wealth@gmail.com**
+
+---
+"""
+
+# Writing the content to a markdown file
+file_path = "/mnt/data/README.md"
+with open(file_path, "w") as file:
+    file.write(readme_content)
+
+file_path  # returning the path for user to download
