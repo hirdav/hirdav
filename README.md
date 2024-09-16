@@ -7,6 +7,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+https://upload.wikimedia.org/wikipedia/en/4/46/NSE_Logo.png
+
 Welcome to my GitHub profile! I’m passionate about merging **technology with finance**. I love exploring new ideas and transforming them into impactful projects. Currently, I’m focusing on applying **data science** to deepen my understanding of financial markets from the Tech lense. 
 
 ---
