@@ -9,12 +9,11 @@
 
 
 
-Welcome to my GitHub profile! I’m passionate about technology and finance, constantly exploring new ideas and turning them into impactful projects. Currently, I’m focused on applying data science to gain deeper insights into financial markets through a tech-driven lens. I'm also learning programming languages like , , , as well as databases such as  and  to strengthen my ability to analyze data, automate processes, and build scalable solutions that bridge the gap between technology and finance.
 
 
----
+Welcome to my GitHub profile! I’m passionate about **technology and finance**, constantly exploring new ideas and turning them into impactful projects. Currently, I’m focused on applying **data science** to gain deeper insights into financial markets and the tech world. I'm also learning programming languages like ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white), ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white), as well as databases such as ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) and ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) to strengthen my ability to analyze data, automate processes, and build scalable solutions that bridge the gap between technology and finance.
 
----
+
 
 ## 🌱 Tech Stack
 
