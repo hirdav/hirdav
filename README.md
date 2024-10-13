@@ -7,8 +7,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Welcome to my GitHub profile! I’m passionate about **technology and finance**. I love exploring new ideas and transforming them into impactful projects. Currently, I’m focusing on applying **data science** to deepen my understanding of financial markets and tech world. Currently learning Programming language [Python, Java, C++], Databases [Sql(Postgress, MySql] to strengthen my ability to analyze data, automate processes, and build scalable solutions. 
- 
+
+
+Welcome to my GitHub profile! I’m passionate about technology and finance, constantly exploring new ideas and turning them into impactful projects. Currently, I’m focused on applying data science to gain deeper insights into financial markets through a tech-driven lens. I'm also learning programming languages like , , , as well as databases such as  and  to strengthen my ability to analyze data, automate processes, and build scalable solutions that bridge the gap between technology and finance.
+
+
+---
 
 ---
 
